@@ -1,7 +1,65 @@
-# Hi, My name is Nishi
-# 💫 About Me:
-🔭 I’m currently working on data analytics and data science projects involving EDA, predictive modeling, NLP, and LLM-based analytics workflows<br><br>👯 I’m looking to collaborate on data analysis, machine learning, NLP, and AI-driven analytics projects<br><br>🤝 I’m looking for help with advanced machine learning, scalable data pipelines, and production-grade AI systems<br><br>🌱 I’m currently learning advanced statistics, model interpretability, LLM evaluation, and data engineering best practices<br><br>💬 Ask me about SQL, Python, EDA, predictive modeling, NLP, dashboards, and turning data into actionable insights<br><br>⚡ Fun fact: I enjoy breaking down complex datasets and models into simple, business-friendly stories
+<div align="center">Hi, I'm Nishi 👋
+Data Scientist · Advanced Analytics · Applied AI
+Turning complex data into clear insights, predictive solutions, and useful AI workflows.
 
+📍 Texas, USA  ·  💬 Open to data science, analytics & AI collaborations
+</div>✨ What I Do
+I work at the intersection of data science, analytics engineering, and applied AI, building solutions that connect technical depth with business impact. My experience spans healthcare, financial services, education, and product analytics, from exploring raw data to delivering predictive models and decision-ready dashboards.
+- 🔎 Discover patterns: EDA, statistical analysis, customer behavior, and KPI design
+- 🧠 Build intelligence: classification, forecasting, NLP, semantic search, and LLM-powered workflows
+- 🛠️ Make data usable: SQL/Python pipelines, cloud analytics, and BI storytelling
+🧰 My Toolkit
+Focus	Tools & Techniques
+Languages & analysis	Python · SQL · R · Pandas · NumPy
+Machine learning	Predictive Modeling · Feature Engineering · Model Development · Model Evaluation
+GenAI & NLP	LLMs · RAG · LangGraph · LangChain · Azure OpenAI · SentenceTransformers
+Data platforms	Microsoft Fabric · BigQuery · Databricks · GCP · Azure SQL
+Visualization	Power BI · Tableau · Looker · DAX
+
+💼 Professional Experience
+Role	Organization	Period
+Data Scientist (Consultant)	UnitedHealth Group	Mar 2026 – Present
+Data Scientist	Springer Capital	May – Dec 2025
+Data Science Research	University of the Cumberlands	Jun 2024 – Apr 2025
+Senior Data Analyst	Ayant Software Pvt. Ltd.	Jan 2010 – Jun 2015
+
+
+🚀 Selected Work
+<table>
+<tr>
+<td width="50%" valign="top">📺 YouTube Engagement + Semantic Search
+
+Explored 7.48M+ records from 110 countries with a GCP/BigQuery pipeline. Combined engagement analytics with video embeddings to explore content similarity.
+
+Python SQL BigQuery SentenceTransformers
+</td>
+<td width="50%" valign="top">
+💬 Voice of Customer Analytics
+
+Studied 19.9K+ product reviews to uncover sentiment patterns. Built a text classification workflow and translated findings into Power BI views.
+
+NLP TF-IDF Logistic Regression Power BI
+</td>
+</tr>
+</table>📈 Impact Snapshot
+- 🏥 Healthcare analytics: Analyzed 30M+ claims records to surface cost and utilization insights.
+- ⚡ Faster reporting: Improved dashboard load times by 30% through DAX optimization.
+- 🔄 Better data access: Improved data availability by 35% through ETL and lakehouse workflows.
+- 🤖 Applied GenAI: Contributed to multi-agent client briefing workflows using LangGraph, RAG, and Azure OpenAI.
+
+🌱 Currently Exploring
+Model interpretability · LLM evaluation · Reliable AI workflows · Scalable data engineering
+
+Across these roles, I've worked on healthcare insights, predictive analytics, AI-assisted workflows, and business reporting.
+🎓 Education
+Degree	University	Year
+M.S. in Data Science	University of the Cumberlands	2025
+M.E. in Computer Engineering	Savitribai Phule Pune University	2014
+B.E. in Computer Engineering	R.T.M. Nagpur University	2008
+
+🤝 Let's Connect
+I enjoy collaborating on machine learning, NLP, analytics, and practical AI projects. I especially like making complex results understandable to non-technical audiences.
+Good analytics doesn't end with a model. It ends with a decision someone can confidently make.
 
 ## Other Links:
 #### Tableau Public Profile: https://public.tableau.com/app/profile/nishigandha.v.wankhade/vizzes
